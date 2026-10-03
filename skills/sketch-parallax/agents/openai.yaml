@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sketch Parallax · 手绘视界"
+  short_description: "从透明手绘主体构建共享穿梭空间和逐页独立三维 HTML 手稿"
+  default_prompt: "使用 $sketch-parallax 将这些图片制作成电脑端手绘分层作品，生成混合穿梭和独立 3D 逐页版本。"

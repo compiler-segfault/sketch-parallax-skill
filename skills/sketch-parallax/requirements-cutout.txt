@@ -1,0 +1,2 @@
+-r requirements.txt
+rembg[cpu]>=2.0.60,<3

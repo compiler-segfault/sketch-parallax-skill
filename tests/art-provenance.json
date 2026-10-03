@@ -1,0 +1,22 @@
+{
+  "tool": "image_gen.imagegen",
+  "demo": {
+    "source": "Four user-supplied AI character illustrations",
+    "style": "Graphite, colored pencil and restrained warm/cool gestures",
+    "transparent_background": true,
+    "editing_provenance": "Four separate character edits; reference video constrained drawing style only"
+  },
+  "single_image_test": {
+    "source": "One original DeepSeek illustration, newly cut out with isnet-anime",
+    "fresh_edit": true,
+    "transparent_background": true,
+    "prompt": "Edit the attached anime whale maid character into a full-body graphite and colored-pencil sketch. Preserve her blue wavy hair, whale ears and tail, joyful face, raised waving hand, navy maid dress, white apron with small whale emblem, shoes, pose and anime proportions. Loose fine charcoal hatch marks, broken individual pencil strokes, soft restrained blue/lavender watercolor washes, open paper-like negative spaces in pale clothing, a few expressive orange/ochre and teal/blue gesture strokes around the outline. Match a warm sketchbook illustration style, avoid solid glossy cel shading or opaque white dress. True transparent alpha background: no paper rectangle, colored background, source halo, text or watermark. Full figure uncropped with small margin. Use the source character for identity only; remove all original surrounding background and any dark/blue matte residues.",
+    "model_weights_in_package": false,
+    "original_rgb_cutout_verified": true
+  },
+  "audio": {
+    "demo": "scene-minimalism-15 from music.shapeof.world; metadata and rights notice in demo/",
+    "single_image": "No audio",
+    "actually_listened": false
+  }
+}

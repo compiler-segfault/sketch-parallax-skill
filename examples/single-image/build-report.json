@@ -1,0 +1,22 @@
+{
+  "subjects": [
+    {
+      "name": "DeepSeek 单图试做",
+      "size": [
+        928,
+        1670
+      ],
+      "webp_bytes": 756166
+    }
+  ],
+  "audio_embedded": false,
+  "standalone": false,
+  "files": {
+    "data.js": 1008453,
+    "engine.js": 13751,
+    "index.html": 169,
+    "mixed.html": 3036,
+    "pages.html": 3034,
+    "style.css": 8094
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "mixed": {
+    "subjects": 4,
+    "isolated_page_draw_calls": null,
+    "offline_load": true,
+    "drag_zoom_depth_reset_play": true,
+    "fixed_world": true,
+    "errors": [],
+    "statistics": {
+      "version": "desktop-sketch-space-1",
+      "mode": "mixed",
+      "portraits": 4,
+      "semanticLayers": 56,
+      "whiteBodyPlanes": 0,
+      "fixedWorld": true,
+      "photoSwap": false,
+      "renderer": "shared 3D space",
+      "visiblePersonas": 4
+    }
+  },
+  "pages": {
+    "subjects": 4,
+    "isolated_page_draw_calls": 14,
+    "offline_load": true,
+    "drag_zoom_depth_reset_play": true,
+    "fixed_world": true,
+    "errors": [],
+    "statistics": {
+      "version": "desktop-sketch-space-1",
+      "mode": "pages",
+      "portraits": 4,
+      "semanticLayers": 56,
+      "whiteBodyPlanes": 0,
+      "fixedWorld": true,
+      "photoSwap": false,
+      "renderer": "independent 3D pages",
+      "visiblePersonas": 1
+    }
+  }
+}

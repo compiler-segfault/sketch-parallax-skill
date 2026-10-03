@@ -1,0 +1,46 @@
+{
+  "subjects": [
+    {
+      "name": "Claude",
+      "size": [
+        934,
+        1684
+      ],
+      "webp_bytes": 956616
+    },
+    {
+      "name": "GPT",
+      "size": [
+        968,
+        1625
+      ],
+      "webp_bytes": 961066
+    },
+    {
+      "name": "DeepSeek",
+      "size": [
+        932,
+        1688
+      ],
+      "webp_bytes": 911024
+    },
+    {
+      "name": "Gemini",
+      "size": [
+        991,
+        1587
+      ],
+      "webp_bytes": 965356
+    }
+  ],
+  "audio_embedded": true,
+  "standalone": false,
+  "files": {
+    "data.js": 5594461,
+    "engine.js": 13751,
+    "index.html": 169,
+    "mixed.html": 3045,
+    "pages.html": 3043,
+    "style.css": 8094
+  }
+}

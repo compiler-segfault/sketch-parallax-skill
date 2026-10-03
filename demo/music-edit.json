@@ -1,0 +1,7 @@
+{
+  "source": "music-original.mp3",
+  "source_metadata": "music-metadata.json",
+  "edit": "two copies with 1 second crossfade, trim 20 seconds, final 1 second fade",
+  "duration_seconds": 20,
+  "actually_listened": false
+}

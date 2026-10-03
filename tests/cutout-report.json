@@ -1,0 +1,7 @@
+{
+  "model": "isnet-anime",
+  "transparent_alpha": true,
+  "original_rgb_pixels_preserved": true,
+  "fresh_image_edit_performed": true,
+  "weights_bundled": false
+}
