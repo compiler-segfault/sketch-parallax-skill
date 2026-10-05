@@ -196,3 +196,7 @@ tests/                    Verification reports and artwork provenance
 The four-character demo includes Claude, GPT, DeepSeek and Gemini. Its illustrations were converted into transparent pencil sketches with an image-editing tool. The single-image example demonstrates a separate cutout, sketch edit and build. See [asset details](tests/art-provenance.json).
 
 The included music comes from `music.shapeof.world`; its [usage notice](demo/music-license.txt), [metadata](demo/music-metadata.json) and [edit record](demo/music-edit.json) are preserved. The single-image example has no music; the existing track was not manually auditioned.
+
+## License
+
+The skill, scripts, templates and site code are licensed under the [MIT License](LICENSE). Demo illustrations and audio are subject to their respective rights and permission notices; the MIT License does not grant rights to those assets. See [asset details](tests/art-provenance.json) and [audio permissions](demo/music-license.txt).

@@ -195,3 +195,7 @@ tests/                      验证记录和素材来源
 四角色示例包含 Claude、GPT、DeepSeek 和 Gemini，使用图像编辑工具转换成透明彩铅手稿；单图示例展示了独立的抠图、手绘转换与构建流程。详细记录见 [素材说明](tests/art-provenance.json)。
 
 示例配乐来自 `music.shapeof.world`，保留 [使用说明](demo/music-license.txt)、[元数据](demo/music-metadata.json) 和 [剪辑记录](demo/music-edit.json)。单图示例无配乐，现有音轨未人工试听。
+
+## 许可证
+
+Skill、脚本、模板与网页代码采用 [MIT 许可证](LICENSE)。示例插画与音频适用各自的权利及授权说明；MIT 许可证不授予这些素材的使用权。详见 [素材说明](tests/art-provenance.json) 与 [音频许可](demo/music-license.txt)。
